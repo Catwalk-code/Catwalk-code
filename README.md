@@ -2,7 +2,9 @@
 
 My name is Egor.
 
-📘 My tech stack consists of: <br>
+📘 My tech stack consists of: 
+<br>
+<br>
 <div align="left">
   <table>
     <tr>

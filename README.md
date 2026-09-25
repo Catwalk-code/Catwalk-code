@@ -5,10 +5,10 @@ My name is Egor.
 ℹ️ About me:
 
 📘 My tech stack consists of: <br>
-<div align="center">
+<div align="left">
   <table>
     <tr>
-      <td align="left">
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="80" height="80" alt="Docker"/><br>
         <b>Docker</b>
       </td>

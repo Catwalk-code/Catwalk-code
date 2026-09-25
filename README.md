@@ -4,7 +4,7 @@ My name is Egor.
 
 ℹ️About me:
 
-📘 My tech stack consists of: 
+📘 My tech stack consists of: <br>
                               ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
                               <br>
                               ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)

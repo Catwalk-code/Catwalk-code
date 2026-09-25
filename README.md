@@ -20,9 +20,10 @@ My name is Egor.
       </td>
     </tr>
   </table>
-</div>         
+</div>     
+<br>
 My best project is a <a href="https://github.com/Catwalk-code/FastAPI-crypto-tracker">cryptocurrency tracker</a>
-
+<br>
 Fun Facts:
 <ul>
   <li>I enjoy going to the gym</li>

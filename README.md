@@ -7,8 +7,12 @@ I am focusing on Backend development.
 <br>
 <br>
 <div align="left">
-  <table>
+<table>
     <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80" height="80" alt="Python"/><br>
+        <b>Python</b>
+      </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="80" height="80" alt="FastAPI"/><br>
         <b>FastAPI</b>
@@ -22,7 +26,7 @@ I am focusing on Backend development.
         <b>Docker</b>
       </td>
     </tr>
-  </table>
+</table>
 </div>     
 <br>
 My best project is a <a href="https://github.com/Catwalk-code/FastAPI-crypto-tracker">cryptocurrency tracker</a>

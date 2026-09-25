@@ -1,6 +1,7 @@
 ## Hi 👋
 
-My name is Egor. I am focusing on Backend development.
+My name is Egor.
+I am focusing on Backend development.
 
 📘 My tech stack consists of: 
 <br>

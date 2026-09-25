@@ -13,12 +13,12 @@ My name is Egor.
         <b>FastAPI</b>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="80" height="80" alt="Docker"/><br>
-        <b>Docker</b>
-      </td>
-      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="80" height="80" alt="PostgreSQL"/><br>
         <b>PostgreSQL</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="80" height="80" alt="Docker"/><br>
+        <b>Docker</b>
       </td>
     </tr>
   </table>

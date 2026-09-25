@@ -8,7 +8,7 @@ My name is Egor.
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="80" height="80" alt="Docker"/><br>
         <b>Docker</b>
       </td>

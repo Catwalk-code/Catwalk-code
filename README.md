@@ -22,7 +22,6 @@ I am focusing on Backend development.
       <b>PostgreSQL</b>
     </td>
   </tr>
-  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="80" height="80" alt="Docker"/><br>
       <b>Docker</b>
@@ -35,7 +34,6 @@ I am focusing on Backend development.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="80" height="80" alt="Linux"/><br>
       <b>Linux</b>
     </td>
-  </tr>
 </table>
 </div>     
 <br>

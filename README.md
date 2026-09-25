@@ -7,7 +7,6 @@ I am focusing on Backend development.
 <br>
 <br>
 <div align="left">
-<div align="left">
   <table>
     <tr>
       <td align="center" style="background-color: #f3f4f6; border-radius: 8px; padding: 10px; width: 120px;">
@@ -38,6 +37,7 @@ I am focusing on Backend development.
       </td>
     </tr>
   </table>
+</div>
 </div>
 </div>     
 <br>

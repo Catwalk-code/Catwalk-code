@@ -2,7 +2,7 @@
 
 My name is Egor.
 
-ℹ️About me:
+ℹ️ About me:
 
 📘 My tech stack consists of: <br>
 <br>

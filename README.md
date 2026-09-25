@@ -21,4 +21,10 @@ My name is Egor.
     </tr>
   </table>
 </div>         
-My favorite project is <a href="https://github.com/Catwalk-code/FastAPI-crypto-tracker">cryptocurrency tracker</a>
+My best project is a <a href="https://github.com/Catwalk-code/FastAPI-crypto-tracker">cryptocurrency tracker</a>
+
+Fun Facts:
+<ul>
+  <li>I enjoy going to the gym</li>
+  <li>I prefer using linux for coding</li>
+</ul>

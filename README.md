@@ -1,9 +1,9 @@
 ### Hi 👋
 
-### My name is Egor.<br>
-### I am focusing on Backend development.
+My name is Egor.<br>
+I am focusing on Backend development.
 
-### 📘 My tech stack consists of:
+📘 My tech stack consists of:
 <br>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64" height="64" style="margin: 0 15px;" />
@@ -16,10 +16,10 @@
 
 </div>     
 
-### My best project is a <a href="https://github.com/Catwalk-code/FastAPI-crypto-tracker">cryptocurrency tracker</a>
+My best project is a <a href="https://github.com/Catwalk-code/FastAPI-crypto-tracker">cryptocurrency tracker</a>
 
-### Fun Facts:
-### <ul>
-###   <li>I enjoy going to the gym</li>
-###   <li>I prefer using linux for coding</li>
-### </ul>
+Fun Facts:
+<ul>
+   <li>I enjoy going to the gym</li>
+   <li>I prefer using linux for coding</li>
+</ul>
